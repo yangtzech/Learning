@@ -10,10 +10,14 @@ rosrun turtlesim turtle_teleop_key
 rosservice call /spawn 
 输入后按tab键，得到
 
+```
 rosservice call /spawn "x: 0.0
 y: 0.0
 theta: 0.0
 name: 't1'" 
+```
+
+
 回车生成新的名叫t1的海龟
 
 rosservice call /spawn "x: 0.0
