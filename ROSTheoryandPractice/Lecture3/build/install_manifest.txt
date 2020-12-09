@@ -1,0 +1,9 @@
+/home/l/code/Learning/ROSTheoryandPractice/Lecture3/install/_setup_util.py
+/home/l/code/Learning/ROSTheoryandPractice/Lecture3/install/env.sh
+/home/l/code/Learning/ROSTheoryandPractice/Lecture3/install/setup.bash
+/home/l/code/Learning/ROSTheoryandPractice/Lecture3/install/local_setup.bash
+/home/l/code/Learning/ROSTheoryandPractice/Lecture3/install/setup.sh
+/home/l/code/Learning/ROSTheoryandPractice/Lecture3/install/local_setup.sh
+/home/l/code/Learning/ROSTheoryandPractice/Lecture3/install/setup.zsh
+/home/l/code/Learning/ROSTheoryandPractice/Lecture3/install/local_setup.zsh
+/home/l/code/Learning/ROSTheoryandPractice/Lecture3/install/.rosinstall
